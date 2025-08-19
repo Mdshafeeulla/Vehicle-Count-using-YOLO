@@ -1,0 +1,8 @@
+streamlit
+ultralytics
+opencv-python
+cvzone
+numpy
+filterpy
+scikit-image
+lap
