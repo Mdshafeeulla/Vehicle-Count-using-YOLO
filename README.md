@@ -1,3 +1,4 @@
+<img width="1906" height="1059" alt="image" src="https://github.com/user-attachments/assets/6ed239e2-705b-4ad8-a925-d52d1fe3e8b9" />
 # YOLOv8 Traffic Analytics Streamlit App
 
 This is a Streamlit application that uses YOLOv8 for real-time traffic analytics.
