@@ -3,7 +3,8 @@
 > Real-time **vehicle detection and counting** using YOLOv5 for smart traffic monitoring systems.
 
 ## 📸 Demo
-> *(Add a GIF or screenshot of vehicle detection in action)*
+><img width="1818" height="904" alt="image" src="https://github.com/user-attachments/assets/14c85816-701c-4a69-86b6-2d69b7195c2e" />
+
 
 ## 🎯 Problem Statement
 Traffic management systems need automated vehicle counting for congestion analysis and smart city solutions. This project detects and counts vehicles in real-time using state-of-the-art YOLO object detection.
