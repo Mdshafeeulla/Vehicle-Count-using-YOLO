@@ -1,26 +1,32 @@
-<img width="1906" height="1059" alt="image" src="https://github.com/user-attachments/assets/6ed239e2-705b-4ad8-a925-d52d1fe3e8b9" />
-# YOLOv8 Traffic Analytics Streamlit App
+# 🚗 Vehicle Count using YOLO
 
-This is a Streamlit application that uses YOLOv8 for real-time traffic analytics.
+> Real-time **vehicle detection and counting** using YOLOv5 for smart traffic monitoring systems.
 
-## Features
+## 📸 Demo
+> *(Add a GIF or screenshot of vehicle detection in action)*
 
-- **Real-time video analytics:** Detects and tracks vehicles in a video stream.
-- **Draggable counting bar:** A slider to position a virtual trip-line for counting vehicles.
-- **Per-class filters:** Checkboxes to select which vehicle types to count.
-- **Live KPI overlay:** Displays total vehicles, class-wise counts, and FPS.
-- **Video Export:** Export the annotated video with a single click.
+## 🎯 Problem Statement
+Traffic management systems need automated vehicle counting for congestion analysis and smart city solutions. This project detects and counts vehicles in real-time using state-of-the-art YOLO object detection.
 
-## How to Run
+## 🛠️ Tech Stack
+- **Model**: YOLOv5
+- **Computer Vision**: OpenCV
+- **Language**: Python
 
-1.  **Install dependencies:**
-    ```bash
-    pip install -r requirements.txt
-    ```
+## ⚙️ Run Locally
 
-2.  **Run the Streamlit app:**
-    ```bash
-    streamlit run app.py
-    ```
+```bash
+git clone https://github.com/Mdshafeeulla/Vehicle-Count-using-YOLO
+cd Vehicle-Count-using-YOLO
+pip install -r requirements.txt
+python detect.py --source your_video.mp4
+```
 
-3.  **Open the app in your browser, upload a video, and see the magic!**
+## 🔑 Key Features
+- ✅ Real-time vehicle detection
+- ✅ Counts cars, trucks, motorcycles separately
+- ✅ Works on both video files and live camera feed
+- ✅ Bounding box visualization
+
+---
+⭐ Star this repo if you found it useful!
