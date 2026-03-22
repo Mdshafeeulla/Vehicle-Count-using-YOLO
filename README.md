@@ -30,4 +30,4 @@ python detect.py --source your_video.mp4
 - ✅ Bounding box visualization
 
 ---
-⭐ Star this repo if you found it useful!
+
